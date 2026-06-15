@@ -12,9 +12,9 @@ export const TestimonialsSection = () => {
   });
 
   const stats = [
-    { number: "5+", label: "Happy clients" },
+    { number: "11+", label: "Happy clients" },
     { number: "8+", label: "Projects" },
-    { number: "4.8", label: "Average Rating" },
+    { number: "5.0", label: "Average Rating" },
   ];
 
   const testimonials = [

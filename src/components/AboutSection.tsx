@@ -38,15 +38,13 @@ export const AboutSection = () => {
 
             <p className="text-base sm:text-lg text-muted-foreground leading-relaxed text-center lg:text-left">
               I'm passionate about creating AI-focused intelligent systems that 
-              simplify complex problems. With a strong foundation in tech and a keen 
-              eye for innovation, I enjoy bridging the gap between functionality and 
-              intelligence—turning data-driven ideas into clean, meaningful solutions.
+              simplify complex problems. With a strong foundation in software development, I enjoy bridging the gap between functionality and 
+              intelligence turning data-driven ideas into clean, meaningful solutions.
             </p>
 
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 sm:gap-6">
               <div className="space-y-3 sm:space-y-4">
                 <h3 className="text-base sm:text-lg font-semibold text-center sm:text-left">Backend Development</h3>
-                <h3 className="text-base sm:text-lg font-semibold text-center sm:text-left">Web Scraping</h3>
                 <h3 className="text-base sm:text-lg font-semibold text-center sm:text-left">Computer Vision</h3>
               </div>
               <div className="space-y-3 sm:space-y-4">
@@ -74,8 +72,8 @@ export const AboutSection = () => {
               </div>
               <div className="text-center sm:text-left">
                 <h4 className="text-xs sm:text-sm text-muted-foreground mb-1">Leadership</h4>
-                <p className="font-semibold text-sm sm:text-base">Campus Ambassador<br />(Unstop)</p>
-                <p className="text-xs sm:text-sm text-muted-foreground">2024 - 2025</p>
+                <p className="font-semibold text-sm sm:text-base">Management Lead <br />(Google De  velopers Group Puducherry)</p>
+                <p className="text-xs sm:text-sm text-muted-foreground">2026 - 2027</p>
               </div>
             </div>
           </div>

@@ -50,6 +50,24 @@ export const ProjectsSection = () => {
   };
 
   const projects = [
+    
+    
+    {
+      title: "Smart Insurance Agent",
+      description:
+        "Winner 2026-Built an insurance agent with autonomous voice services that fetches and gives users , the personalised scheme of insurances from providers",
+      tech: [
+        "Flutter",
+        "Python",
+        "Litestar",
+        "Twilio",
+        "LLM",
+        "RAG"
+      ],
+      featured: true,
+      award: "National GenAI Hackathon ",
+      image: "/logos/smart.jpeg",
+    },
     {
       title: "WhisprNet.ai",
       description:

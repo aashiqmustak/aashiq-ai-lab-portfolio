@@ -4,23 +4,26 @@ import { motion } from "framer-motion";
 
 export const ExperienceSection = () => {
   const experiences = [
-       {
+       
+    {
+      title: "SDE Intern",
+      company: "Voxloom",
+      period: "2025 - Present",
+      description: "Product Development on Voice Agent , Automated Call Services",
+      color: "muted-foreground",
+      logo: "/logos/voxloom.svg"
+    },
+    
+    {
       title: "AI & Backend Developer",
       company: "Freelance - Own Firm | Zarnex.ai",
       period: "2023 - Present",
       description: "Developing ML models, LLM applications, and backend systems for various clients. Specializing in healthcare AI and automation solutions.",
       color: "muted-foreground",
       logo: "/logos/zar.png"
-    },
-   
-    {
-      title: "Unstop Campus Ambassador",
-      company: "Unstop",
-      period: "2024 - 2025",
-      description: "Promoting tech events, hackathons, and opportunities within the campus community. Engaging with students and fostering innovation.",
-      color: "muted-foreground",
-      logo: "/logos/unstop.png"
     }
+   
+      
     
   ];
 
